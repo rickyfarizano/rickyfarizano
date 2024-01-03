@@ -13,7 +13,8 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,sass,figma,discord,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,sass,figma,discord,photoshop" />
+<img src="https://skillicons.dev/icons?i=illustrator" />
 
 <hr width="36%" >
 
